@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ALC Phase 1</string>
+    <string name="welcome_to_alc">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="email">Email:</string>
+    <string name="country">Country:</string>
+    <string name="track">Track:</string>
+    <string name="nickname">Nickname:</string>
+</resources>
